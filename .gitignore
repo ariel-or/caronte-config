@@ -1,0 +1,14 @@
+# ================================================================================
+# CARONTE-LOGS - .gitignore (Repositorio de logging)
+# ================================================================================
+
+# No excluir los logs (es el propósito del repo)
+# Pero sí excluir temporales y comprimidos (los rotados se suben antes de comprimir)
+
+# Archivos comprimidos de logrotate (ya rotados y archivados)
+*.gz
+
+# Temporales del sistema
+*.tmp
+*.swp
+*~
