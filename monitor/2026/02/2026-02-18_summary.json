@@ -1,0 +1,14 @@
+{
+  "date": "2026-02-18",
+  "checks": 105,
+  "ok": 103,
+  "degraded": 2,
+  "down": 0,
+  "availability_pct": 98.1,
+  "cpu_avg_pct": 11.6,
+  "cpu_max_pct": 77.1,
+  "mem_avg_mb": 6862,
+  "mem_max_mb": 12994,
+  "disk_last_pct": 67,
+  "data_size_last_mb": 629
+}
